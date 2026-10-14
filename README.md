@@ -1,6 +1,6 @@
-# UA TQS LED 1.0.0 (English edition)
+# UA TQS LED 1.0.0
 
-UA TQS LED drives the lamps on a Thrustmaster Viper TQS Mission Pack / Panel from live DCS F-16C or Falcon BMS 4.38 data. It automatically selects the game currently providing data. The installer and application interface in this release are English only. The application is independent of T.A.R.G.E.T. and Union Avionics software.
+UA TQS LED drives the lamps on a Thrustmaster Viper TQS Mission Pack / Panel from live DCS F-16C or Falcon BMS 4.38 data. It automatically selects the game currently providing data. The application is independent of T.A.R.G.E.T. and Union Avionics software.
 
 This is an independent community utility. It is not made, endorsed, or supported by Thrustmaster, Eagle Dynamics, or Benchmark Sims.
 
@@ -24,6 +24,6 @@ The installer creates a separate version folder, a desktop shortcut, and a curre
 - DCS integration targets the F-16C module. Falcon BMS integration targets the 4.38 shared-memory layout.
 - The package is unsigned. Windows may display a publisher warning.
 - This build passed automated tests and isolated installer checks on its build PC. A clean-PC installation and every supported simulator version have not been verified for this release.
-- The GitHub release contains the English installer; this repository contains English documentation and third-party notices. Application source code is not published here.
+- The GitHub release contains the Windows installer; this repository contains documentation and third-party notices. Application source code is not published here.
 
 Verify the downloaded installer against `SHA256SUMS.txt`. See `THIRD_PARTY_NOTICES.md` and `licenses/` for bundled third-party components.
