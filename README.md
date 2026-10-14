@@ -2,6 +2,8 @@
 
 UA TQS LED drives the lamps on a Thrustmaster Viper TQS Mission Pack / Panel from live DCS World F-16C or Falcon BMS 4.38 data. It automatically selects the game currently providing data. The application is independent of T.A.R.G.E.T.
 
+Setup and the installed application follow the current Windows display language: Chinese on a Chinese-language Windows interface, and English for all other languages.
+
 This is an independent community utility. It is not made, endorsed, or supported by Thrustmaster, Eagle Dynamics, or Benchmark Sims.
 
 ![UA TQS LED application window](screenshot.png)
