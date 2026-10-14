@@ -6,7 +6,7 @@ This is an independent community utility. It is not made, endorsed, or supported
 
 ## Requirements
 
-- A Windows x64 PC with one connected Viper TQS joystick HID interface (USB VID `044F`, PID `0412`).
+- A Windows x64 PC with one connected Viper TQS.
 - DCS World with the F-16C module, Falcon BMS 4.38, or both.
 - Permission to write to your chosen application folder and, for DCS integration, the relevant `Saved Games/DCS.../Scripts` folder.
 
