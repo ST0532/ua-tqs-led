@@ -19,7 +19,7 @@ This is an independent community utility. It is not made, endorsed, or supported
 3. If one DCS Saved Games profile is detected, setup deploys its export script. If multiple profiles are detected, choose the intended one. If none is detected, setup installs the BMS direct-read mode without a DCS script.
 4. Start **UA TQS LED** using the desktop shortcut. Its three switches control landing gear, speed brake, and THREAT WARNING AUX lamps. Hold **Lamp test (hold)** to light the lamps; releasing it restores live game output.
 
-The installer creates a separate version folder, a desktop shortcut, and a current-user Windows startup entry. DCS deployment adds a marked hook to `Export.lua` and creates a backup before changing an existing file. The application's DCS setup controls can select a profile and redeploy the hook later. Falcon BMS needs no script deployment.
+The installer creates a separate version folder and a desktop shortcut. DCS deployment adds a marked hook to `Export.lua` and creates a backup before changing an existing file. The application's DCS setup controls can select a profile and redeploy the hook later. Falcon BMS needs no script deployment.
 
 ## Scope and limitations
 
